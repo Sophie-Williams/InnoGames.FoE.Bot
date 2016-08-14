@@ -1,0 +1,36 @@
+{
+  "StaticFiles": {
+    "Bot.exe": {
+      "MD5": "cd1ddda5b28e687fb03697a039daa549",
+      "Download": "https://raw.github.com/cfHxqA/InnoGames.FoE.Bot/master/Bot.exe"
+    },
+    "Bot.exe.config": {
+      "MD5": "723e014782bc0339fbcc388afe837751",
+      "Download": "https://raw.github.com/cfHxqA/InnoGames.FoE.Bot/master/Bot.exe.config"
+    },
+    "config.json": {
+      "MD5": "5b1fa419714f3c2474767a74765004fa",
+      "Download": "https://raw.github.com/cfHxqA/InnoGames.FoE.Bot/master/config.json"
+    },
+    "lib/3rdParty/Newtonsoft.Json.dll": {
+      "MD5": "fe6d1ed62c33e50905e66236766719cf",
+      "Download": "https://raw.github.com/cfHxqA/InnoGames.FoE.Bot/master/lib/3rdParty/Newtonsoft.Json.dll"
+    },
+    "lib/3rdParty/Newtonsoft.Json.Schema.dll": {
+      "MD5": "ee1928ef02e42d9f6d897302d411797c",
+      "Download": "https://raw.github.com/cfHxqA/InnoGames.FoE.Bot/master/lib/3rdParty/Newtonsoft.Json.Schema.dll"
+    },
+    "lib/3rdParty/Octokit.dll": {
+      "MD5": "8dea12903d71ac3d6739c13696ca4340",
+      "Download": "https://raw.github.com/cfHxqA/InnoGames.FoE.Bot/master/lib/3rdParty/Octokit.dll"
+    },
+    "lib/3rdParty/Portable.Licensing.Prime.dll": {
+      "MD5": "9e269ef95365e9ff5685da02b1dfb973",
+      "Download": "https://raw.github.com/cfHxqA/InnoGames.FoE.Bot/master/lib/3rdParty/Portable.Licensing.Prime.dll"
+    },
+    "lib/3rdParty/RestSharp.dll": {
+      "MD5": "1a0dc70ae56c4b3df8fb4afc017cb77d",
+      "Download": "https://raw.github.com/cfHxqA/InnoGames.FoE.Bot/master/lib/3rdParty/RestSharp.dll"
+    }
+  }
+}
