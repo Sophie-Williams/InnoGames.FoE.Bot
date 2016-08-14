@@ -12,6 +12,10 @@
       "MD5": "5b1fa419714f3c2474767a74765004fa",
       "Download": "https://raw.github.com/cfHxqA/InnoGames.FoE.Bot/master/config.json"
     },
+	"lib/Core/BotNix.InnoGames.FoE.dll": {
+      "MD5": "fe6d1ed62c33e50905e66236766719ca",
+      "Download": "https://raw.github.com/cfHxqA/InnoGames.FoE.Bot/master/lib/Core/BotNix.InnoGames.FoE.dll"
+    },
     "lib/3rdParty/Newtonsoft.Json.dll": {
       "MD5": "fe6d1ed62c33e50905e66236766719cf",
       "Download": "https://raw.github.com/cfHxqA/InnoGames.FoE.Bot/master/lib/3rdParty/Newtonsoft.Json.dll"
