@@ -1,11 +1,11 @@
 {
   "StaticFiles": {
     "Bot.exe": {
-      "MD5": "f34d5f2d4577ed6d9ceec516c1f5a744",
+      "MD5": "aa15aff3a8e45a5b8f188478d6024da0",
       "Download": "https://raw.github.com/cfHxqA/InnoGames.FoE.Bot/master/Bot.exe"
     },
     "Bot.exe.config": {
-      "MD5": "d22fc55a8d2f829106661ebed629b30d",
+      "MD5": "723e014782bc0339fbcc388afe837751",
       "Download": "https://raw.github.com/cfHxqA/InnoGames.FoE.Bot/master/Bot.exe.config"
     },
     "config.json": {
@@ -31,10 +31,6 @@
     "lib/3rdParty/RestSharp.dll": {
       "MD5": "09806e18f9f8e3f2351827be22e634e0",
       "Download": "https://raw.github.com/cfHxqA/InnoGames.FoE.Bot/master/lib/3rdParty/RestSharp.dll"
-    },
-    "lib/3rdParty/PeNet.dll": {
-      "MD5": "7de4195ab45beb2b754ce39b3345e719",
-      "Download": "https://raw.github.com/cfHxqA/InnoGames.FoE.Bot/master/lib/3rdParty/PeNet.dll"
     }
   }
 }
