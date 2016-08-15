@@ -1,7 +1,7 @@
 {
   "StaticFiles": {
     "Bot.exe": {
-      "MD5": "aa15aff3a8e45a5b8f188478d6024da0",
+      "MD5": "f51fe41637348a8a8c0b003632dc9686",
       "Download": "https://raw.github.com/cfHxqA/InnoGames.FoE.Bot/master/Bot.exe"
     },
     "Bot.exe.config": {
@@ -13,7 +13,7 @@
       "Download": "https://raw.github.com/cfHxqA/InnoGames.FoE.Bot/master/config.json"
     },
     "lib/Core/BotNix.InnoGames.FoE.dll": {
-      "MD5": "f6e72335697cc35557390c675f27fb45",
+      "MD5": "4525090444a476e4b4c720526ff2edf4",
       "Download": "https://raw.github.com/cfHxqA/InnoGames.FoE.Bot/master/lib/Core/BotNix.InnoGames.FoE.dll"
     },
     "lib/3rdParty/Newtonsoft.Json.dll": {
