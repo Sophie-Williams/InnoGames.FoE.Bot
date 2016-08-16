@@ -4,14 +4,14 @@
 
 # InnoGames.FoE.Bot
 
-This is a simple application to automate actions in the game. See also the listed functions. You want to purchase a license? [See here](http://www.elitepvpers.com/forum/browsergames/4077244-release-forge-empires-bot.html). 
+This is a simple console application which automates action in the game. See also the listed features. You want to purchase a license? [See here](http://www.elitepvpers.com/forum/browsergames/4077244-release-forge-empires-bot.html). 
 
 
 # Features
 
  - Collecting of coins / supplies / goods
- - Collecting of treasures
  - Finish buildings (Residential, Production, Goods)
+ - Treasure Hunt
 
 # How to use it?
 
