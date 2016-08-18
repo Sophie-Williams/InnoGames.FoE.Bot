@@ -1,0 +1,18 @@
+[
+  {
+    "md5": "c3c04754418382f505cafc18d64427f5",
+    "url": "https://raw.github.com/cfHxqA/InnoGames.FoE.Bot/master/Dependencies/Newtonsoft.Json.dll"
+  },
+  {
+    "md5": "60f3364f595a6342d6504902bc932f8c",
+    "url": "https://raw.github.com/cfHxqA/InnoGames.FoE.Bot/master/Dependencies/Newtonsoft.Json.Schema.dll"
+  },
+  {
+    "md5": "e5e0fb505e2c2891d7857cdf72b909d1",
+    "url": "https://raw.github.com/cfHxqA/InnoGames.FoE.Bot/master/Dependencies/Portable.Licensing.Prime.dll"
+  },
+  {
+    "md5": "09806e18f9f8e3f2351827be22e634e0",
+    "url": "https://raw.github.com/cfHxqA/InnoGames.FoE.Bot/master/Dependencies/RestSharp.dll"
+  }
+]
