@@ -1,6 +1,12 @@
 <p align="center">
   <img src="http://i.epvpimg.com/6msuf.png" alt="forge-of-empires-logo"/>
+  
+  <a href="https://discord.gg/VMmVU8q">
+    <img src="https://discordapp.com/api/guilds/216284167275544576/widget.png?style=banner2" />
+  </a>
 </p>
+
+<hr />
 
 # InnoGames.FoE.Bot
 
