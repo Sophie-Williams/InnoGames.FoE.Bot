@@ -10,7 +10,7 @@
 
 # InnoGames.FoE.Bot
 
-This is a simple console application which automates action in the game. See also the listed features. You want to purchase a license? [See here](http://www.elitepvpers.com/forum/browsergames/4077244-release-forge-empires-bot.html). 
+This is a simple console application which automates action in the game. See also the listed features. You want to purchase a license? Then take contact with me in Discord and leave me a message. 
 
 
 # Features
