@@ -1,0 +1,18 @@
+[
+  {
+    "md5": "32de645f2e331eec3e51e9f7f03836c7",
+    "url": "https://raw.github.com/cfHxqA/InnoGames.FoE.Bot/master/Bot.exe"
+  },
+  {
+    "md5": "802546fd7a04a4be45159560dd1040c8",
+    "url": "https://raw.github.com/cfHxqA/InnoGames.FoE.Bot/master/Bot.exe.config"
+  },
+  {
+    "md5": "c1d9b9f232cec8088bdcd2000e5a94d8",
+    "url": "https://raw.github.com/cfHxqA/InnoGames.FoE.Bot/master/config.json"
+  },
+  {
+    "md5": "d884d1744518b40bd5992fa61aa09ec1",
+    "url": "https://raw.github.com/cfHxqA/InnoGames.FoE.Bot/master/Core/BotNix.InnoGames.FoE.dll"
+  }
+]
