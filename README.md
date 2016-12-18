@@ -15,7 +15,7 @@ This is a simple console application which automates action in the game. See als
 
 # Features
 
- - Collecting of coins / supplies / goods
+ - Collecting of coins / supplies / goods / random
  - Finish buildings (Residential, Production, Goods)
  - Polish buildings
  - Treasure Hunt
