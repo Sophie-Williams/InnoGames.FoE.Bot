@@ -17,6 +17,7 @@ This is a simple console application which automates action in the game. See als
 
  - Collecting of coins / supplies / goods / random
  - Finish buildings (Residential, Production, Goods)
+ - Friends Tavern (collect)
  - Polish buildings
  - Treasure Hunt
 
