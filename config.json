@@ -1,1 +1,31 @@
-{"username":"CHANGEME","password":"CHANGEME","server":"de1","proxy_address":"","proxy_address_port":0,"game_building_production_type":1,"game_building_goods_type":1}
+{
+  "username": "CHANGEME",
+  "password": "CHANGEME",
+  "server": "us1",
+  "game": {
+    "goods": {
+      "enable": true,
+      "option": 1
+    },
+    "production": {
+      "enable": true,
+      "option": 1,
+      "event": {
+        "enable": true,
+        "option": 1
+      }
+    },
+    "residential": {
+      "enable": true
+    },
+    "friends_tavern": {
+      "enable": true,
+      "interval": 1800,
+      "required_silver": 0,
+      "required_chairs": 0
+    },
+    "treasure_hunt": {
+      "enable": true
+    }
+  }
+}
