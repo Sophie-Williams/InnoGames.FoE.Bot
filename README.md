@@ -15,10 +15,10 @@ This is a simple console application which automates action in the game. See als
 
 # Features
 
- - Collecting of coins / supplies / goods / random
- - Finish buildings (Residential, Production, Goods)
- - Friends Tavern (collect)
- - Polish buildings
+ - Collecting of Coins / Supplies / Goods / Random
+ - Finish buildings (Goods, Production, Residential)
+ - Friends Tavern (Collect)
+ - Polish buildings (Friends, Guild members, Neighborhood)
  - Treasure Hunt
 
 # How to use it?
