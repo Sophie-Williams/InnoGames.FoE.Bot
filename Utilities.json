@@ -1,0 +1,18 @@
+[
+  {
+    "md5": "894c96d387141b0ce0d88b59c0676884",
+    "url": "https://raw.github.com/cfHxqA/InnoGames.FoE.Bot/master/Utilities/DateUtil.dll"
+  },
+  {
+    "md5": "37d012242bab4a7be4edef238abee093",
+    "url": "https://raw.github.com/cfHxqA/InnoGames.FoE.Bot/master/Utilities/Newtonsoft.Json.SerializationUtil.dll"
+  },
+  {
+    "md5": "a3ad67d9ddc634b41fdf06c37a38b609",
+    "url": "https://raw.github.com/cfHxqA/InnoGames.FoE.Bot/master/Utilities/SingletonFactoryUtil.dll"
+  },
+  {
+    "md5": "66ebaf23f1ae2e8f2858ef1bf146c36b",
+    "url": "https://raw.github.com/cfHxqA/InnoGames.FoE.Bot/master/Utilities/StringUtil.dll"
+  }
+]
