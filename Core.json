@@ -1,10 +1,10 @@
 [
   {
-    "md5": "4f25a5cfea4ed048b13c586e963d7445",
+    "md5": "8c0365df9206688d8d891a259382e791",
     "url": "https://raw.github.com/cfHxqA/InnoGames.FoE.Bot/master/Bot.exe"
   },
   {
-    "md5": "3b9196ed73163c8cc7861130b6423ab9",
+    "md5": "6b4a0c45a4aa3b4c97dd49bfbb6cc8ef",
     "url": "https://raw.github.com/cfHxqA/InnoGames.FoE.Bot/master/Bot.exe.config"
   },
   {
@@ -12,31 +12,11 @@
     "url": "https://raw.github.com/cfHxqA/InnoGames.FoE.Bot/master/config.json"
   },
   {
-    "md5": "bad4f2f8822e4f680aaa3b8db5e8e483",
+    "md5": "08296069c94836b0619f33fc7c31a953",
     "url": "https://raw.github.com/cfHxqA/InnoGames.FoE.Bot/master/Core/BotNix.InnoGames.FoE.dll"
   },
   {
     "md5": "0fff8c8d28594f8eca61bd66dc73f423",
     "url": "https://raw.github.com/cfHxqA/InnoGames.FoE.Bot/master/Core/BotNix.InnoGames.FoE.Plugin.dll"
-  },
-  {
-    "md5": "facb40c42484a3fcc2b30d56210cf577",
-    "url": "https://raw.github.com/cfHxqA/InnoGames.FoE.Bot/master/Core/BotNix.InnoGames.FoE.SDK.dll"
-  },
-  {
-    "md5": "6f6724517cbdef1af2b784a053c009c6",
-    "url": "https://raw.github.com/cfHxqA/InnoGames.FoE.Bot/master/Core/Services/CityProductionService.dll"
-  },
-  {
-    "md5": "0394d39d74cb656ddad579a78529bee4",
-    "url": "https://raw.github.com/cfHxqA/InnoGames.FoE.Bot/master/Core/Services/FriendsTavernService.dll"
-  },
-  {
-    "md5": "b0421716e68276dd22cbea758cd739b9",
-    "url": "https://raw.github.com/cfHxqA/InnoGames.FoE.Bot/master/Core/Services/OtherPlayerService.dll"
-  },
-  {
-    "md5": "96e601dfd6b5882ebba544eaad6796c7",
-    "url": "https://raw.github.com/cfHxqA/InnoGames.FoE.Bot/master/Core/Services/TreasureHuntService.dll"
   }
 ]
