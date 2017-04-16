@@ -19,7 +19,7 @@
 
  - Collecting of Coins / Supplies / Goods / Random
  - Finish buildings (Goods, Production, Residential)
- - Friends Tavern (Collect, Visit)
+ - Friends Tavern (Collect, Visit, Boosts)
  - Polish buildings (Friends, Guild members, Neighborhood)
  - Treasure Hunt
 
