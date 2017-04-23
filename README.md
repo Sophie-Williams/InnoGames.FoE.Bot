@@ -22,10 +22,18 @@
  - Friends Tavern (Collect, Visit, Boosts)
  - Polish buildings (Friends, Guild members, Neighborhood)
  - Treasure Hunt
+ 
+# Requirements (Linux)
+
+- [mono-complete](http://www.mono-project.com/download/) (Package)
+
+# Requirements (Windows)
+
+- [.NET Framework 4.5 or higher](https://www.microsoft.com/en-US/download/details.aspx?id=48130)
 
 # How to use it?
 
-Unpack the archive **FoE-Bot.zip** and edit **config.json** file. Fill the configuration file with the necessary information, such as username, password and server. If this is all done, start the application and watch!
+Unpack the downloaded archive like **FoE-Bot-Windows.zip** or **FoE-Bot-Linux.zip** and edit **config.json** file. Fill the configuration file with the necessary information, such as username, password and server. If this is all done, start the application and watch!
 
 # Legal
 
