@@ -33,7 +33,7 @@
 
 # How to use it?
 
-Unpack the downloaded archive like **FoE-Bot-Windows.zip** or **FoE-Bot-Linux.zip** and edit **config.json** file. Fill the configuration file with the necessary information, such as username, password and server. If this is all done, start the application and watch!
+Unpack the downloaded archive like **FoE-Bot-win.zip** or **FoE-Bot-linux.zip** and edit **config.json** file. Fill the configuration file with the necessary information, such as username, password and server. If this is all done, start the application and watch!
 
 # Legal
 
