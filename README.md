@@ -8,6 +8,11 @@
 
 <hr />
 
+# Preview
+<p align="center">
+   <img src="http://i.epvpimg.com/ck6Neab.png" />
+</p>
+
 # InnoGames.FoE.Bot
 
 **This is a simple console application which automates action in the game.** See also the listed features. **You want to purchase a license?** Then take contact with me in Discord and leave a message. 
