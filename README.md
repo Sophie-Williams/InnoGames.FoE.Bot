@@ -22,7 +22,7 @@
 
 # Features
 
- - Collecting of Coins / Supplies / Goods / Random
+ - Collecting of Coins / Supplies / Goods / Random / Hidden Rewards
  - Finish buildings (Goods, Production, Residential)
  - Friends Tavern (Collect, Visit, Boosts)
  - Polish buildings (Friends, Guild members, Neighborhood)
