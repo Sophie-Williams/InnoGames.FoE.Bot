@@ -1,5 +1,9 @@
 [
   {
+    "md5": "85c25b84897232b29c7a4d35ce898a95",
+    "url": "https://raw.github.com/cfHxqA/InnoGames.FoE.Bot/master/Dependencies/NetworkCommsDotNetComplete.dll"
+  },
+  {
     "md5": "8d0380d674bd8ed0ecd23d5c3a191154",
     "url": "https://raw.github.com/cfHxqA/InnoGames.FoE.Bot/master/Dependencies/Newtonsoft.Json.dll"
   },
@@ -8,11 +12,11 @@
     "url": "https://raw.github.com/cfHxqA/InnoGames.FoE.Bot/master/Dependencies/Newtonsoft.Json.Schema.dll"
   },
   {
-    "md5": "9772281b69d56567fb7d64c174e2da5d",
-    "url": "https://raw.github.com/cfHxqA/InnoGames.FoE.Bot/master/Dependencies/Portable.Licensing.dll"
-  },
-  {
     "md5": "09806e18f9f8e3f2351827be22e634e0",
     "url": "https://raw.github.com/cfHxqA/InnoGames.FoE.Bot/master/Dependencies/RestSharp.dll"
+  },
+  {
+    "md5": "a858e10409c01b1252e4e0b5892de2a4",
+    "url": "https://raw.github.com/cfHxqA/InnoGames.FoE.Bot/master/Dependencies/SA.Server.Client.dll"
   }
 ]
