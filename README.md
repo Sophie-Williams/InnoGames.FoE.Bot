@@ -2,7 +2,7 @@
   <img src="http://i.epvpimg.com/6msuf.png" alt="forge-of-empires-logo"/>
   
   <a href="https://discord.gg/8FMzSRJ">
-    <img src="https://discordapp.com/api/guilds/216284167275544576/widget.png?style=banner2" />
+    <img src="https://discordapp.com/api/guilds/365129052832530433/widget.png?style=banner2" />
   </a>
 </p>
 
