@@ -1,8 +1,20 @@
 {
   "username": "CHANGEME",
   "password": "CHANGEME",
-  "server": "us1",
+  "server": "de8",
+  "application" : {
+    "session": {
+      "timeout": 30
+    }
+  },
   "game": {
+    "contribute" : {
+      "great_building" : [
+      ]
+    },
+    "friends" : {
+      "accept_invitation" : true
+    },
     "goods": {
       "enable": true,
       "option": 1
@@ -12,17 +24,31 @@
       "option": 1,
       "event": {
         "enable": true,
-        "option": 1
+        "option": 1,
+        "entities": {}
       }
     },
     "residential": {
-      "enable": true
+      "enable": false
     },
     "friends_tavern": {
-      "enable": true,
+      "boost": {
+        "enable": true,
+        "renew": true
+      },
+      "enable_collect": true,
+      "enable_visit": true,
       "interval": 1800,
       "required_silver": 0,
       "required_chairs": 0
+    },
+    "socialbar": {
+      "enable": true,
+      "option": {
+        "friends": true,
+        "guild_members": true,
+        "neighbors": true
+      }
     },
     "treasure_hunt": {
       "enable": true
