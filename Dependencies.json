@@ -14,9 +14,5 @@
   {
     "md5": "09806e18f9f8e3f2351827be22e634e0",
     "url": "https://raw.github.com/cfHxqA/InnoGames.FoE.Bot/master/Dependencies/RestSharp.dll"
-  },
-  {
-    "md5": "a858e10409c01b1252e4e0b5892de2a4",
-    "url": "https://raw.github.com/cfHxqA/InnoGames.FoE.Bot/master/Dependencies/SA.Server.Client.dll"
   }
 ]
