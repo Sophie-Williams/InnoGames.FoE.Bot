@@ -12,23 +12,11 @@
     "url": "https://raw.github.com/cfHxqA/InnoGames.FoE.Bot/master/config.json"
   },
   {
-    "md5": "62552b9160a63658c7daf031411ea3e0",
+    "md5": "df3009e26d48deff1e33b27c4e0afaa0",
     "url": "https://raw.github.com/cfHxqA/InnoGames.FoE.Bot/master/Core/FoE.Core.dll"
   },
   {
-    "md5": "4014e18a69bc60c07383230edeb215dd",
-    "url": "https://raw.github.com/cfHxqA/InnoGames.FoE.Bot/master/Core/FoE.Game.dll"
-  },
-  {
-    "md5": "6e005d2a6b315f9748c5e95109ede31e",
-    "url": "https://raw.github.com/cfHxqA/InnoGames.FoE.Bot/master/Core/FoE.Game.Notification.dll"
-  },
-  {
-    "md5": "9d7a66a3df7c84900e18cca30b35a8b1",
-    "url": "https://raw.github.com/cfHxqA/InnoGames.FoE.Bot/master/Core/FoE.Updater.dll"
-  },
-  {
-    "md5": "58b98fc32d6b22c2e3d1db3c7fa24c8d",
+    "md5": "e9bf21b14307de7cf1381dcde01eb718",
     "url": "https://raw.github.com/cfHxqA/InnoGames.FoE.Bot/master/Core/FoE.Utilities.dll"
   }
 ]
