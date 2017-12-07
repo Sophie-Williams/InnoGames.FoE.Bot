@@ -9,11 +9,18 @@
   },
   "game": {
     "contribute" : {
+      "enable" : false,
+      "forge_points" : {
+        "enable" : false,
+      },
       "great_building" : [
       ]
     },
     "friends" : {
       "accept_invitation" : true
+    },
+    "hidden_rewards" : {
+      "enable" : true
     },
     "goods": {
       "enable": true,
@@ -29,7 +36,7 @@
       }
     },
     "residential": {
-      "enable": false
+      "enable": true
     },
     "friends_tavern": {
       "boost": {
