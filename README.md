@@ -22,10 +22,12 @@
 
 # Features
 
+ - Accept friends invitation
  - Collecting of Coins / Supplies / Goods / Random / Hidden Rewards
  - Finish buildings (Goods, Production, Residential)
  - Friends Tavern (Collect, Visit, Boosts)
  - Polish buildings (Friends, Guild members, Neighborhood)
+ - Spend „Forge Points“ into Great Buildings, buy new „Forge Points“ with money
  - Treasure Hunt
  
 # Requirements (Linux)
