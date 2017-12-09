@@ -22,7 +22,7 @@
 
 # Features
 
- - Accept friends invitation
+ - Accept friends invitations
  - Collecting of Coins / Supplies / Goods / Random / Hidden Rewards
  - Finish buildings (Goods, Production, Residential)
  - Friends Tavern (Collect, Visit, Boosts)
