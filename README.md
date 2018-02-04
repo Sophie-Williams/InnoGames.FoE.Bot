@@ -17,7 +17,7 @@
 
 **This is a simple console application which automates action in the game.** See also the listed features. **You want to purchase a license?** Then take contact with me in Discord and leave a message. 
 
-**Are you interested in a trial license?** Then take contact with me in Discord and leave a message and don't forget to tell me your id which is displayed on startup the bot.
+**Are you interested in a trial license?** Then take contact with me in Discord and leave a message.
 
 
 # Features
