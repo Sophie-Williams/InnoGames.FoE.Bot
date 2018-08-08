@@ -14,8 +14,7 @@
         "enable" : false,
       },
       "great_building" : [
-      ],
-      "amount": 10
+      ]
     },
     "friends" : {
       "accept_invitation" : true
